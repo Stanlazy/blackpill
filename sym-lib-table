@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pillf4-rescue)(type Legacy)(uri ${KIPRJMOD}/pillf4-rescue.lib)(options "")(descr ""))
+)
